@@ -1,0 +1,4 @@
+Create a Directory :
+pu .tsv file and .py file there , and now create 2 more directories named templates and static
+paste both .html file in template folder and .css file in static. 
+
